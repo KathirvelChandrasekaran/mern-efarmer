@@ -1,22 +1,23 @@
 # mern-efarmer
 
 Clone the repository to the system.
+<br/>
 The run the following commands in the terminal.
 
 # Client
-
-# cd client
-# npm install
-# npm start
+<br/>
+cd client
+npm install
+npm start
 
 Now the client side setup is over. Open http://localhost:3000/ in the browser to view the webpage.
 ![alt_text](https://github.com/KathirvelChandrasekaran/mern-efarmer/blob/master/git%20images/client.png)
 
 # Server
-
-# cd server
-# npm install
-# nodemon start
+<br/>
+cd server
+npm install
+nodemon start
 
 Now the server side setup is over. Change the MongoDB URL in server.js.
 Once the process is success you can see
